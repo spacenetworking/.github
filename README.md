@@ -1,3 +1,3 @@
-# Space Networking Web Site
+# SpaceNetworking.com
 
-https://www.spacenetworking.com
+https://www.spacenetworking.com/
